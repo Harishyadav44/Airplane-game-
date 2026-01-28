@@ -1,3 +1,4 @@
+![Game Preview](Boss-Battle.png)
 # 2D Airplane Shooting Game – Boss Edition ✈️👾
 
 This is a 2D shooting game made using Python and Pygame.
